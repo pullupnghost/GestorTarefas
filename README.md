@@ -26,5 +26,5 @@ Contribuições são bem-vindas! Se encontrar problemas, tiver sugestões de mel
 ## Licença
 Este projeto está licenciado sob a MIT License.
 
-Autor
+## Autor
 João V.
